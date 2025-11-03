@@ -46,8 +46,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Gemini Banana Para gerar capas
+- Gemini Banana Para gerar Imagens e capas do Projeto
 - Capcut para tratar aúdio e adicionar sons de fundo
+- Youtube para criar o canal do PodCast O Protocolo da Experiência Dev
 
 ## 📚 Materiais
 
@@ -60,9 +61,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Use os prompts de roteiro no `Chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `Geminibanana`
+- 🤖 4. Use os o Youtube para criação do canal `Youtube`
 
 ## 👨‍💻 Expert
 
@@ -85,6 +87,11 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         LinkedIn
     </a>
     &nbsp;|&nbsp;
+    <a 
+        href="https://youtu.be/0s6tl85nuo8">
+        Youtube
+    </a>
+    &nbsp;|&nbsp;
    
 </p>
 <br/><br/>
@@ -92,4 +99,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Cassiano](https://github.com/Cassiano022)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarC ) É utilizado por mim [Cassiano](https://github.com/Cassiano022) como base para o meu projeto.
