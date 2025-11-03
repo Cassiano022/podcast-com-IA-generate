@@ -99,4 +99,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por Felipe Aguiar É utilizado por mim [Cassiano](https://github.com/Cassiano022) como base para o meu projeto.
+Projeto feito por [Cassiano](https://github.com/Cassiano022) como base e estrutura do Felipe Aguiar Professor da DIO Em Criando um Podcast com IAs Generativas
