@@ -63,8 +63,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `Chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Geminibanana`
-- 🤖 4. Use os o Youtube para criação do canal `Youtube`
+- 🤖 3. Use os prompts de artes no `Gemini&banana`
+- 🤖 4. Usei o Youtube para criação do canal `Youtube`
 
 ## 👨‍💻 Expert
 
@@ -99,4 +99,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarC ) É utilizado por mim [Cassiano](https://github.com/Cassiano022) como base para o meu projeto.
+⌨️ com 💜 por Felipe Aguiar É utilizado por mim [Cassiano](https://github.com/Cassiano022) como base para o meu projeto.
